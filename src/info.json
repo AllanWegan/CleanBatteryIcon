@@ -5,8 +5,8 @@
   "contact": "allanwegan@allanwegan.de",
   "homepage": "https://github.com/AllanWegan/CleanBatteryIcon",
   "description": "Exchanges the battery icon with a less noisy one.",
-  "factorio_version": "0.17",
-  "dependencies": ["base >= 0.17"],
+  "factorio_version": "0.18",
+  "dependencies": ["? bobplates >= 0.18.1", "? Bio_Industries >= 0.18.00"],
   "license": "GNU GPL-3.0 or later",
-  "version": "0.0.3"
+  "version": "0.0.8"
 }
