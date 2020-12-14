@@ -7,36 +7,41 @@ Date: 2018-07-11
 Version: 0.0.2
 Date: 2019-03-09
   Info:
-    - Version bump for Factorio 0.17
+    - Version bump for Factorio 0.17.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.3
 Date: 2019-03-09
   Info:
-    - Added a mod thumbnail
+    - Added a mod thumbnail.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.4
 Date: 2020-02-03
   Info:
-    - Version bump for Factorio 0.18
+    - Version bump for Factorio 0.18.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.5
 Date: 2020-02-04
   Features:
-    - Now also replaces the icons of the batteries in "Bob's Metals, Chemicals and Intermediates" if present
+    - Now also replaces the icons of the batteries in "Bob's Metals, Chemicals and Intermediates" if present.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.6
 Date: 2020-02-05
   Bugfixes:
-    - Fixed log SPAM about mipmaps
+    - Fixed log SPAM about mipmaps.
   Info:
-    - Added a changelog.txt
+    - Added a changelog.txt.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.7
-Date: 2020-02-05
+Date: 2020-02-06
   Features:
-    - Now replaces the icon of the battery with a green version if "Bio Industries" present
+    - Now replaces the icon of the battery with a green version if "Bio Industries" present.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.8
 Date: 2020-02-09
   Info:
-    - Adapted to recipe name change in next "Bio Industries" release
+    - Adapted to recipe name change in next "Bio Industries" release.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.9
+Date: 2020-12-14
+  Info:
+    - Version bump for Factorio 1.1.
